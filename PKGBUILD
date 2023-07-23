@@ -1,7 +1,7 @@
 pkgname=llama2-chat
 
 _llamaversion=master-d2a4366
-pkgver=1.0.1
+pkgver=1.0.2
 pkgrel=1
 pkgdesc="Llama2 chat using the uncensored Luna AI ggml quantized version"
 arch=('aarch64' 'x86_64')

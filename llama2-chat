@@ -3,7 +3,7 @@
 set -e
 
 MODEL="${MODEL:-/opt/llama2/models/7B/luna-ai-llama2-uncensored.ggmlv3.q3_K_S.bin}"
-PROMPT_TEMPLATE=${PROMPT_TEMPLATE:-~/opt/llama2/prompts/7B/luna_ai_prompt.txt}
+PROMPT_TEMPLATE=${PROMPT_TEMPLATE:-/opt/llama2/prompts/7B/luna_ai_prompt.txt}
 USER_NAME="${USER_NAME:-HUMAN}"
 AI_NAME="${AI_NAME:-ASSISTANT}"
 
