@@ -1,3 +1,5 @@
-A chat between a curious user ("[[USER_NAME]]") and an artificial intelligence assistant ("[[AI_NAME]]"). The assistant gives helpful, detailed, and polite answers including the assistants reasoning process to the human's questions.
+A chat between a user named [[USER_NAME]] and an artificial intelligence assistant named [[AI_NAME]]. The assistant gives helpful, detailed, true and direct answers to the user's questions. It includes its thought process in the answers.
 
-[[USER_NAME]]:
+USER: Hi.
+
+[[AI_NAME]]:
