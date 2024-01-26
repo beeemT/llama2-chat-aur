@@ -22,6 +22,8 @@ This is a project aiming at allowing users to easily have a good llm running loc
 
 All credits go to the llama2 team, Luna AI, TheBloke, and the llama.cpp project authors.
 
+This project is archived in favour of using ollama, as it is just far more convenient.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
